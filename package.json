@@ -1,5 +1,5 @@
 {
-  "name": "split-html",
+  "name": "split-html-max",
   "version": "1.0.1",
   "description": "Split HTML into two valid fragments wherever a certain selector is matched. Works on the server side.",
   "main": "index.js",
